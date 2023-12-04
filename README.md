@@ -1,4 +1,4 @@
-# Hack-Social-Opleck
+# Hack-Social-Oplesk
 Ejercicios de Git-Github
 
 ### Hack 1 - H-1
